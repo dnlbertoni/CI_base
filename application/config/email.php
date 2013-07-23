@@ -23,7 +23,7 @@ $config['smtp_pass']    = 'mi_contrasena';
 $config['charset']    = 'utf-8'; 
 $config['newline']    = "\r\n"; 
 $config['mailtype'] = 'html'; 
-$config['validation'] = TRUE
+$config['validation'] = TRUE;
 
 
 /* End of file email.php */

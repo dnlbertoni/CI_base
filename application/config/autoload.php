@@ -37,7 +37,7 @@
 |
 */
 
-$autoload['packages'] = array(APPPATH.'third_party');
+$autoload['packages'] = array();
 
 
 /*
@@ -52,13 +52,7 @@ $autoload['packages'] = array(APPPATH.'third_party');
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array( 'template',
-                                'assets',
-                                'session',
-                                'database',
-                                'form_validation',
-                                'security',
-                                'tank_auth');
+$autoload['libraries'] = array();
 
 
 /*
@@ -70,7 +64,7 @@ $autoload['libraries'] = array( 'template',
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url', 'form');
+$autoload['helper'] = array();
 
 
 /*
@@ -86,7 +80,7 @@ $autoload['helper'] = array('url', 'form');
 |
 */
 
-$autoload['config'] = array('tank_auth');
+$autoload['config'] = array();
 
 
 /*

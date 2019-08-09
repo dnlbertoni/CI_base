@@ -36,12 +36,6 @@ define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
-/*
- * PARAMETROS GENERALES
- */
-define('COPIAS', 1);
-define('USUARIO','daniel');
-define('PUESTO', 1);
-define('TMP', BASEPATH."tmp/");
+
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
